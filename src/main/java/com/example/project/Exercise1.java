@@ -20,7 +20,7 @@ public class Exercise1 {
     }
 
     public void insertarPersona(Persona obj){
-        tb.deleteHash(dni);
+        tb.insertHash(dni);
     }
 
     public void eliminarPersona(String dni){
