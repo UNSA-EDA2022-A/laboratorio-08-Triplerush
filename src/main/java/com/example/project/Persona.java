@@ -1,4 +1,4 @@
-package com.example.project;
+package laboratorio9;
 
 public class Persona {
     public String DNI, nombre;
